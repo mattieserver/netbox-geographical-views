@@ -1,0 +1,2 @@
+recursive-include netbox_geographical_views/static *
+recursive-include netbox_geographical_views/templates *
